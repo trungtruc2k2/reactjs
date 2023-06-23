@@ -1,0 +1,5 @@
+{
+    "products":[
+        {"id":19,"name":"iphone","slug":"iphone","image":"iphone.jpg","parent_id":0,"sort_order":0,"metakey":"iphone","metadesc":"iphone","created_at":"2023-06-15T10:57:19.000000Z","updated_at":"2023-06-15T10:57:19.000000Z","created_by":1,"updated_by":null,"status":1}
+    ]
+}
